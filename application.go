@@ -2,7 +2,7 @@ package main
 
 import (
 	"net/http"
-	"test"
+	"github.com/Lycheeeeeee/eb-go/test"
 )
 
 func main() {
